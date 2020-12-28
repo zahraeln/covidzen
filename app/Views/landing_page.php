@@ -37,22 +37,19 @@
             <div class="header">
                 <div class="header-text">
                     <h5>SELAMAT DATANG DI COVIDZEN</h5>
-                    <h1><strong>Kenali Covid Terhadap Dirimu</strong></h1>
-                    <h4>Kenali dampak-dampak COVID-19 terhadap tubuhmu agar kamu lebih
-                        tahu dan waspada terhadap virus ini.</h4>
-                    <a href="#">Learn More</a>
+                    <h1><strong>Rekam Jejak Perjalananmu</strong></h1>
+                    <h4>Ayo kenali gejalanya dan rekam jejak perjalananmu. Dengan merekam jejak perjalananmu, kamu ikut berpartisipasi dalam upaya menekan penyebaran virus COVID-19.</h4>
+                    <a href="#">Mulai</a>
                 </div>
-                <img src="img/header-pink.png">
+                <img src="img/head 2.png">
             </div>
             <div class="content">
                 <div class="about">
-                    <img src="img/about-2.png">
+                    <img src="img/about 2.png">
                     <div id="about" class="about-text">
                         <p>TENTANG KAMI</p>
                         <h1><strong>Tujuan Kami</strong></h1>
-                        <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet quam 
-                            vitae tincidunt porttitor. Proin eget vulputate quam. In nec felis malesuada 
-                            mi consectetur efficitur. In id faucibus nisi.
+                        <h4>Membantu masyarakat dan pemerintah dalam upaya menekan penyebaran virus corona.
                         </h4>
                     </div>
                 </div>
